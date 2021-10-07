@@ -69,7 +69,7 @@
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="contato.php">
+                            <a class="nav-link" href="segredo.php">
                                 <span data-feather="list"></span>
                                 Segredo (tem video)
                             </a>

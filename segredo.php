@@ -1,6 +1,6 @@
 <?php
     
-    $titulo_pagina = "Segredo :o";
+    $titulo_pagina = "Segredo :oo";
     require("cabecalho.php");
 
 ?>
